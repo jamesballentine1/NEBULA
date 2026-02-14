@@ -37,7 +37,7 @@ const Streaming = () => (
           Live TV, premium channels, sports, and thousands of on-demand titles — all in stunning HD and 4K.
         </p>
         <a href={telLink} className="glow-button inline-flex items-center text-lg">
-          <Phone className="w-5 h-5 mr-2" /> Speak to a Streaming Expert: {PHONE}
+          <Phone className="w-5 h-5 mr-2" /> Call Now: {PHONE}
         </a>
       </div>
     </section>
@@ -63,7 +63,7 @@ const Streaming = () => (
     {/* CTA */}
     <section className="py-12 px-4 text-center">
       <a href={telLink} className="glow-button-secondary inline-flex items-center text-lg">
-        <Phone className="w-5 h-5 mr-2" /> Call {PHONE} to Get Started
+        <Phone className="w-5 h-5 mr-2" /> Call Now: {PHONE}
       </a>
     </section>
 

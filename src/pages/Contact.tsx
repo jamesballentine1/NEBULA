@@ -118,7 +118,7 @@ const Contact = () => {
             <div className="glass-card p-8 text-center">
               <p className="text-muted-foreground text-sm mb-4">Skip the form — call us instantly!</p>
               <a href={telLink} className="glow-button inline-flex items-center">
-                <Phone className="w-4 h-4 mr-2" /> {PHONE}
+                <Phone className="w-4 h-4 mr-2" /> Call Now: {PHONE}
               </a>
             </div>
           </div>

@@ -48,8 +48,8 @@ const Index = () => (
           <a href={telLink} className="glow-button inline-flex items-center text-lg">
             <Phone className="w-5 h-5 mr-2" /> Call Now: {PHONE}
           </a>
-          <a href="/contact" className="glow-button-secondary inline-flex items-center text-lg">
-            Check Availability
+          <a href={telLink} className="glow-button-secondary inline-flex items-center text-lg">
+            <Phone className="w-5 h-5 mr-2" /> Call Now: {PHONE}
           </a>
         </div>
         <p className="text-muted-foreground/50 text-xs mt-6">Limited Time Offer · Availability May Vary by Location</p>
@@ -117,7 +117,7 @@ const Index = () => (
                 ))}
               </ul>
               <a href={telLink} className="glow-button text-center text-sm">
-                <Phone className="w-4 h-4 mr-2 inline" /> Call {PHONE}
+                <Phone className="w-4 h-4 mr-2 inline" /> Call Now: {PHONE}
               </a>
             </div>
           ))}

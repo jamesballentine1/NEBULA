@@ -30,7 +30,7 @@ const Internet = () => (
           From everyday browsing to competitive gaming — speeds that keep up with your life.
         </p>
         <a href={telLink} className="glow-button inline-flex items-center text-lg">
-          <Phone className="w-5 h-5 mr-2" /> Check Availability: {PHONE}
+          <Phone className="w-5 h-5 mr-2" /> Call Now: {PHONE}
         </a>
       </div>
     </section>
@@ -56,7 +56,7 @@ const Internet = () => (
               <div className="text-center md:text-right shrink-0">
                 <p className="font-display text-2xl font-bold mb-2">{tier.price}</p>
                 <a href={telLink} className="glow-button text-sm inline-flex items-center">
-                  <Phone className="w-4 h-4 mr-1" /> Call Now
+                  <Phone className="w-4 h-4 mr-1" /> Call Now: {PHONE}
                 </a>
               </div>
             </div>
@@ -87,7 +87,7 @@ const Internet = () => (
     <section className="py-12 px-4 text-center">
       <p className="text-muted-foreground mb-4">📞 Check Availability Now</p>
       <a href={telLink} className="glow-button inline-flex items-center text-lg">
-        <Phone className="w-5 h-5 mr-2" /> {PHONE}
+        <Phone className="w-5 h-5 mr-2" /> Call Now: {PHONE}
       </a>
     </section>
 
