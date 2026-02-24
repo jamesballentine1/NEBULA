@@ -18,7 +18,7 @@ const RefundPolicy = () => (
 
         <section>
           <h2 className="text-xl font-semibold text-foreground mb-3">How to Request a Refund</h2>
-          <p>To request a refund, please contact our support team at (888) 341-3350 or email support@nebulanet360.com. Please have your account number and reason for the refund request ready. We will process your request within 5–10 business days.</p>
+          <p>To request a refund, please contact our support team at (888) 290-4405 or email support@nebulanet360.com. Please have your account number and reason for the refund request ready. We will process your request within 5–10 business days.</p>
         </section>
 
         <section>

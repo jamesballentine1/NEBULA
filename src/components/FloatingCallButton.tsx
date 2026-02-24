@@ -1,6 +1,6 @@
 import { Phone } from "lucide-react";
 
-const PHONE = "(888) 341-3350";
+const PHONE = "(888) 290-4405";
 
 const FloatingCallButton = () => (
   <a

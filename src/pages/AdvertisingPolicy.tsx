@@ -28,7 +28,7 @@ const AdvertisingPolicy = () => (
 
         <section>
           <h2 className="text-xl font-semibold text-foreground mb-3">Contact Us</h2>
-          <p>If you have questions about our advertising practices or believe an advertisement is misleading, please contact us at (888) 341-3350 or support@nebulanet360.com.</p>
+          <p>If you have questions about our advertising practices or believe an advertisement is misleading, please contact us at (888) 290-4405 or support@nebulanet360.com.</p>
         </section>
 
         <p className="text-sm text-muted-foreground/60 pt-4 border-t border-border/30">Last updated: February 2026</p>

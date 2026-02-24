@@ -2,7 +2,7 @@ import { Phone, Tv, Film, Trophy, Smartphone, Monitor, Sparkles } from "lucide-r
 import CTASection from "@/components/CTASection";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 
-const PHONE = "(888) 341-3350";
+const PHONE = "(888) 290-4405";
 const telLink = `tel:${PHONE.replace(/[^0-9]/g, "")}`;
 
 const features = [

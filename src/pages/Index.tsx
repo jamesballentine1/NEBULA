@@ -1,7 +1,7 @@
 import { Phone, Tv, Wifi, Link2, Globe, DollarSign, Headphones, ShieldCheck, Zap, Gift, Star } from "lucide-react";
 import CTASection from "@/components/CTASection";
 
-const PHONE = "(888) 341-3350";
+const PHONE = "(888) 290-4405";
 const telLink = `tel:${PHONE.replace(/[^0-9]/g, "")}`;
 
 const services = [

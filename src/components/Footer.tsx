@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { Phone, Mail, Clock } from "lucide-react";
 
-const PHONE = "(888) 341-3350";
+const PHONE = "(888) 290-4405";
 
 const Footer = () => (
   <footer className="relative z-10 border-t border-border/30 bg-background/80 backdrop-blur-sm">

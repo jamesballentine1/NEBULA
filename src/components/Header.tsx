@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Phone, Menu, X } from "lucide-react";
 
-const PHONE = "(888) 341-3350";
+const PHONE = "(888) 290-4405";
 const navLinks = [
   { to: "/", label: "Home" },
   { to: "/streaming", label: "Streaming" },

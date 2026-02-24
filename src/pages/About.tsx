@@ -1,7 +1,7 @@
 import { Phone, Target, Eye, Users, Shield, Server, HeartHandshake } from "lucide-react";
 import CTASection from "@/components/CTASection";
 
-const PHONE = "(888) 341-3350";
+const PHONE = "(888) 290-4405";
 
 const values = [
   { icon: Target, title: "Our Mission", desc: "To deliver seamless entertainment and connectivity experiences that empower every household to stay connected, entertained, and informed." },

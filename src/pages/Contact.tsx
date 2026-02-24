@@ -4,7 +4,7 @@ import { supabase } from "@/integrations/supabase/client";
 import { useToast } from "@/hooks/use-toast";
 import { z } from "zod";
 
-const PHONE = "(888) 341-3350";
+const PHONE = "(888) 290-4405";
 const telLink = `tel:${PHONE.replace(/[^0-9]/g, "")}`;
 
 const contactSchema = z.object({
